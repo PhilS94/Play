@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.7529412, g: 0.7529412, b: 0.7529412, a: 0.7529412}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.7529412}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -570,8 +570,8 @@ MonoBehaviour:
   anchorMin: {x: 0, y: 0.5}
   anchorMax: {x: 0, y: 0.5}
   pivot: {x: 0.5, y: 0.5}
-  localPosition: {x: -30.5, y: 1.7559572, z: 0}
+  localPosition: {x: -0.25, y: 1.7559572, z: 0}
   anchoredPosition: {x: 400, y: 1.7559572}
-  position: {x: 400, y: 43.47847, z: 0}
+  position: {x: 400, y: 61.905975, z: 0}
   sizeDelta: {x: 2, y: 36}
   size: {x: 2, y: 36}
